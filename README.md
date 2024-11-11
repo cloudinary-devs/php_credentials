@@ -13,8 +13,8 @@ This is a simple PHP project that demonstrates how to configure and use Cloudina
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/php-cloudinary-quickstart.git
-    cd php-cloudinary-quickstart
+    git clone https://github.com/cloudinary-devs/php_credentials.git
+    cd php_credentials
     ```
 
 2. Install dependencies: <p>Run the following command to install PHP dependencies using Composer:</p>
@@ -24,7 +24,7 @@ This is a simple PHP project that demonstrates how to configure and use Cloudina
 
 3. Set up environment variables:
     * Create a .env file in the root of your project.
-    * Add your Cloudinary URL (from your Cloudinary dashboard) in the `.env` file like this:
+    * Add your Cloudinary URL (from the [API Keys](https://console.cloudinary.com/settings/api-keys) page in the Console Settings) in the `.env` file like this:
         ```
         CLOUDINARY_URL=cloudinary://API_KEY:API_SECRET@CLOUD_NAME
         ```
