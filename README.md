@@ -2,6 +2,7 @@
 
 This is a simple PHP project that demonstrates how to configure and use Cloudinary for image management. The program loads Cloudinary credentials from a .env file, generates an image tag with specified transformations, and outputs it to the browser.
 
+
 ### Prerequisites
 
 * PHP (version 7.4 or higher recommended)
