@@ -49,10 +49,10 @@ This is a simple PHP project that demonstrates how to configure and use Cloudina
 
 ### Example Output
 
-The program will display the following HTML image tag (adjusted for the Cloudinary demo account):
+The program will display the following HTML image tag:
 
 ```
-<img src="https://res.cloudinary.com/my-shop/image/upload/cld-sample">
+<img src="https://res.cloudinary.com/my-shop/image/upload/c_scale,w_400/cld-sample">
 ```
 
 ### Dependencies
