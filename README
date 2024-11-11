@@ -13,7 +13,7 @@ This is a simple PHP project that demonstrates how to configure and use Cloudina
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/php_credentials.git
+    git clone https://github.com/cloudinary-devs/php_credentials.git
     cd php_credentials
     ```
 
