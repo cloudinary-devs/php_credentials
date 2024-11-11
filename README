@@ -13,8 +13,8 @@ This is a simple PHP project that demonstrates how to configure and use Cloudina
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/php-cloudinary-quickstart.git
-    cd php-cloudinary-quickstart
+    git clone https://github.com/your-username/php_credentials.git
+    cd php_credentials
     ```
 
 2. Install dependencies: <p>Run the following command to install PHP dependencies using Composer:</p>
