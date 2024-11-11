@@ -51,7 +51,7 @@ This is a simple PHP project that demonstrates how to configure and use Cloudina
 The program will display the following HTML image tag (adjusted for the Cloudinary demo account):
 
 ```
-<img src="https://res.cloudinary.com/demo/image/upload/b_auto:predominant,c_pad,h_400,w_400/flower_sample">
+<img src="https://res.cloudinary.com/my-shop/image/upload/cld-sample">
 ```
 
 ### Dependencies
